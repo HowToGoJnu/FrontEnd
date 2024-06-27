@@ -4,6 +4,10 @@
     {
       "path": "src/font/Inter-Bold.ttf",
       "sha1": "47ff07c75746682133b81e7ac0537ce50a4c9916"
+    },
+    {
+      "path": "src/font/Inter-Regular.ttf",
+      "sha1": "cfa780d0b50b2bb7eacb82984f1b18a95aaa40c5"
     }
   ]
 }

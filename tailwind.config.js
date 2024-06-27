@@ -15,6 +15,7 @@ module.exports = {
       },
       fontFamily: {
         inter: ['Inter-Bold'],
+        'inter-r': ['Inter-Regular'],
       },
     },
   },
